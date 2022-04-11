@@ -13,4 +13,10 @@
             {"text": "a large white polar bear walking in the water", "confidence": 0.74197378283093}
         ]
     }
+    "requestId": "46ac0ba6-ace9-4bac-xxxxxx",
+    "metadata": {
+        "width": 220,
+        "height": 221,
+        "format": "Jpeg"
+    }
 }
