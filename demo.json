@@ -1,0 +1,16 @@
+{
+    "color": {
+        "dominantColorForeground": "White",
+        "dominantColorBackground": "White",
+        "dominantColors": ["White"],
+        "accentColor": "595144",
+        "isBwlmg": false,
+        "isBWlmg": false
+    },
+    "description": {
+        "tags": ["bear", "polar", "animal", "mammal", "outdoor", "water", "white", "large", "walking", "snow", "standing"],
+        "captions": [
+            {"text": "a large white polar bear walking in the water", "confidence": 0.74197378283093}
+        ]
+    }
+}
