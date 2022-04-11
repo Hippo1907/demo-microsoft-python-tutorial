@@ -4,8 +4,8 @@
         "dominantColorBackground": "White",
         "dominantColors": ["White"],
         "accentColor": "595144",
-        "isBwlmg": False,
-        "isBWlmg": False
+        "isBwlmg": "False",
+        "isBWlmg": "False"
     },
     "description": {
         "tags": ["bear", "polar", "animal", "mammal", "outdoor", "water", "white", "large", "walking", "snow", "standing"],
